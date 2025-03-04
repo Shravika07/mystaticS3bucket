@@ -1,0 +1,1 @@
+# mystaticS3bucket
